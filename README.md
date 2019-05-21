@@ -1,3 +1,3 @@
 # Rails::Csrf::Test::Engine
 
-Example app for https://github.com/rails/rails/issues/36317.
+Example engine for https://github.com/rails/rails/issues/36317.
